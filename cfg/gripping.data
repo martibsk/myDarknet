@@ -1,0 +1,9 @@
+classes= 1
+train  = data/gripping/train.txt
+valid  = data/gripping/test.txt
+names = data/gripping.names
+backup = backup/
+#eval=coco
+
+
+
